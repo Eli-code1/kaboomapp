@@ -9,7 +9,12 @@ export default class MyInlineWeb extends Component {
       <WebView
         source={KaboomHTML}
         style={{flex: 1}}
+        mixedContentMode='always'
+        originWhitelist={['*']}
         incognito={true}
+        allowFileAccess={true}
+       allowUniversalAccessFromFileURLs={true}
+       
       />
     );
   }
