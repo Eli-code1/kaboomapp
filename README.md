@@ -1,5 +1,5 @@
 
-<img src="kaboomToApp.jpg" alt="kaboomToApp" title="Kaboom To App" width="128" height="128" /> 
+<img src="kaboomToApp.png" alt="kaboomToApp" title="Kaboom To App" width="128" height="128" /> 
 # Kaboom App #
 Turn your favorite Kaboom.js game into a hit app on iOS and Android!
 
