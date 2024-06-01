@@ -1,0 +1,16 @@
+<script type="module">
+    // Adding game objects to screen
+    import kaboom from "https://unpkg.com/kaboom@3000.0.1/dist/kaboom.mjs";
+    //import the code from kaboomCode
+    import { kaboomCode } from "./kaboomCode.js";
+    try {
+        // Kaboom as pure rendering lib (no component / game obj etc.)
+        kaboomCode()
+
+    } catch (error) {
+        alert(error);
+    }
+
+    
+    
+    </script>

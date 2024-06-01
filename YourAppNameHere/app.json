@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "YourAppNameHere",
+    "slug": "YourAppNameHere",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./sprites/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./sprites/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./sprites/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./sprites/favicon.png"
+    }
+  }
+}
